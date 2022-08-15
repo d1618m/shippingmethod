@@ -1,6 +1,6 @@
 {
     "name": "kgkrunch/shippingmethod",
-    "description": "Magento2 FAQ Module",
+    "description": "Magento2 shipping Module",
     "homepage": "https://github.com/kgkrunch/shippingmethod",
     "type": "magento2-module",
     "version": "1.0.5",

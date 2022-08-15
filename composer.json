@@ -1,0 +1,21 @@
+{
+    "name": "kgkrunch/shippingmethod",
+    "description": "Magento2 FAQ Module",
+    "homepage": "https://github.com/kgkrunch/shippingmethod",
+    "type": "magento2-module",
+    "version": "1.0.5",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+          "name": "Divya Patel"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Kgkrunch\\InternationalShipping\\": ""
+        }
+    }
+}

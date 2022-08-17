@@ -24,8 +24,8 @@ Create a module call: `Simpleshipping` located in `app/code/<vendor_name>/<modul
 
 ![shipping method in magento 2](https://cdn.mageplaza.com/media/general/xNM7TOu.png)
 
-- [app/code/Kgkrunch/InternationalShipping/registration.php](https://github.com/kgkrunch/shippingmethod/registration.php)
-- [app/code/Kgkrunch/InternationalShipping/etc/module.xml](https://github.com/kgkrunch/shippingmethod/etc/module.xml)
+- [app/code/Kgkrunch/InternationalShipping/registration.php](https://github.com/kgkrunch/shippingmethod/blob/master/registration.php)
+- [app/code/Kgkrunch/InternationalShipping/etc/module.xml](https://github.com/kgkrunch/shippingmethod/blob/master/etc/module.xml)
 
 Now create `config.xml` at `app/code/<vendor_name>/<module_name>/etc/config.xml`
 

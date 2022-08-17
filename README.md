@@ -31,7 +31,7 @@ git clone https://github.com/kgkrunch/shippingmethod
 
 Login to Magento Admin and do as the following:
 
-![Magento 2 shipping method](https://prnt.sc/f-etMUH2ntZ6)
+![Magento 2 shipping method](https://www.awesomescreenshot.com/image/31455917?key=f723deafd8401a3891bfa42fae1795f1)
 
 ### Sample Shipping Configuration
 #### Enable Social Login
@@ -44,7 +44,7 @@ Select `Yes` option to enable shipping method.
 
 #### Set Configuration
 
-![enable shipping method,price](https://prnt.sc/eN-814M76cBI)
+![enable shipping method,price](https://www.awesomescreenshot.com/image/31455830?key=5dc33adc76b659680707c6ec72efbea8)
 
 set shipping method name,shipping price,and set custom min rate and max rate which calculate the shipping rate between min and max total
 
